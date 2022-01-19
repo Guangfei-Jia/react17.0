@@ -1,13 +1,27 @@
+/*
+ * @Descripttion: 
+ * @version: 
+ * @Author: fei
+ * @Date: 2021-08-10 11:20:13
+ * @LastEditors: fei
+ * @LastEditTime: 2021-12-02 16:47:26
+ */
 import React from 'react';
-import ReactDOM from 'react-dom';
+import { render } from 'react-dom'
+import { Provider } from 'react-redux'
 import './index.css';
 import App from './App';
+// import App1 from './components/App1';
 import reportWebVitals from './reportWebVitals';
+import store from "./redux";
 
-ReactDOM.render(
-  <React.StrictMode>
+render(
+  // <React.StrictMode>
+  <Provider store={store}>
+    {/* <App1 /> */}
     <App />
-  </React.StrictMode>,
+  </Provider>,
+  // </React.StrictMode>,
   document.getElementById('root')
 );
 

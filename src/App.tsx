@@ -1,26 +1,19 @@
-import React from 'react';
-import logo from './logo.svg';
+/*
+ * @Descripttion: 
+ * @version: 
+ * @Author: fei
+ * @Date: 2021-08-10 11:20:13
+ * @LastEditors: fei
+ * @LastEditTime: 2021-11-23 14:25:32
+ */
+import React, { FC } from 'react';
 import './App.css';
+import AppRouter from './router/AppRouter'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+const App: FC = () => {
+  return (<div className="App">
+    <AppRouter />
+  </div>);
+};
 
 export default App;
