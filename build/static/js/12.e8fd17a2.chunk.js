@@ -1,2 +1,0 @@
-(this.webpackJsonpreact17=this.webpackJsonpreact17||[]).push([[12],{107:function(t,e,c){"use strict";c.r(e);c(95),c(126),c(0);var r=c(7);e.default=function(){return Object(r.jsx)("div",{children:"user"})}}}]);
-//# sourceMappingURL=12.e8fd17a2.chunk.js.map

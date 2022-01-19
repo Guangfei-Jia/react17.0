@@ -1,1 +1,0 @@
-{"version":3,"sources":["pages/system/user/index.tsx"],"names":["ss"],"mappings":"yIAQeA,UAPD,WAKV,OAAO","file":"static/js/12.e8fd17a2.chunk.js","sourcesContent":["import React, { FC } from 'react';\nconst ss:FC = () => {\n    const getlist = async ()=>{\n\n    }\n\n    return <div>user</div>\n}\nexport default ss;"],"sourceRoot":""}
