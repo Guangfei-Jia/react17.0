@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/plugins/chat/index.tsx"],"names":["ss"],"mappings":"uIAQeA,UAPD,WAKV,OAAO","file":"static/js/5.ab08b9c6.chunk.js","sourcesContent":["import React, { FC } from 'react';\nconst ss:FC = () => {\n    const getlist = async ()=>{\n\n    }\n\n    return <div>chat</div>\n}\nexport default ss;"],"sourceRoot":""}

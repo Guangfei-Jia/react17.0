@@ -1,0 +1,2 @@
+(this.webpackJsonpreact17=this.webpackJsonpreact17||[]).push([[8],{102:function(t,e,c){"use strict";c.r(e);c(95),c(126),c(0);var i=c(7);e.default=function(){return Object(i.jsx)("div",{children:"like"})}}}]);
+//# sourceMappingURL=8.bf1457d9.chunk.js.map

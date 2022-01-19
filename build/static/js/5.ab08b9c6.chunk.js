@@ -1,0 +1,2 @@
+(this.webpackJsonpreact17=this.webpackJsonpreact17||[]).push([[5],{99:function(t,c,e){"use strict";e.r(c);e(95),e(126),e(0);var n=e(7);c.default=function(){return Object(n.jsx)("div",{children:"chat"})}}}]);
+//# sourceMappingURL=5.ab08b9c6.chunk.js.map

@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/index.tsx"],"names":["Index"],"mappings":"qHAIeA,UAJD,WACV,OAAO","file":"static/js/1.25bae80b.chunk.js","sourcesContent":["const Index = () => {\n    return <div>欢迎进入首页</div>\n}\n\nexport default Index;"],"sourceRoot":""}

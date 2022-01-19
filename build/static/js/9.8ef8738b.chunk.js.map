@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/plugins/test/index.tsx"],"names":["ss"],"mappings":"wIAQeA,UAPD,WAKV,OAAO","file":"static/js/9.8ef8738b.chunk.js","sourcesContent":["import React, { FC } from 'react';\nconst ss:FC = () => {\n    const getlist = async ()=>{\n\n    }\n\n    return <div>test</div>\n}\nexport default ss;"],"sourceRoot":""}
